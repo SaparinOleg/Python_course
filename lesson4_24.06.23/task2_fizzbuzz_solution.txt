@@ -1,1 +1,1 @@
-После запуска программы "Lesson4 Task2 (fizzbuzz from Lesson3 Task6).py" сюда будет записан результат работы алгоритма fizzbuzz для набора из комплектов чисел из файла "Task2 fizzbuzz(task).txt"
+После запуска программы "lesson4_task2_fizzbuzz_from_lesson3_task6).py" сюда будет записан результат работы алгоритма fizzbuzz для набора из комплектов чисел из файла "task2_fizzbuzz_task.txt"

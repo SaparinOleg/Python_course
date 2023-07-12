@@ -1,4 +1,4 @@
-with open('Task6_fizzbuzz(task).txt', 'r') as file_in, open('Task6_fizzbuzz(solution).txt', 'w') as file_out:
+with open('task6_fizzbuzz_task.txt', 'r') as file_in, open('task6_fizzbuzz_solution.txt', 'w') as file_out:
     for line in file_in:
         fizz, buzz, limit = line.split()
         for i in range(1, int(limit) + 1):
