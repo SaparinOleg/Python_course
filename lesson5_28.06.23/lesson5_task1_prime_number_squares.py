@@ -3,7 +3,9 @@ def to_sqr(number):
 
 
 def is_prime(number):
-    for i in range(2, number // 2):
+    if number < 2:
+        return False
+    for i in range(2, number // 2 + 1):
         if not number % i:
             return False
     return True
