@@ -2,11 +2,11 @@ with open('task6_fizzbuzz_task.txt', 'r') as file:
     for line in file:
         fizz, buzz, limit = line.split()
         for i in range(1, int(limit) + 1):
-            if i % int(fizz) == 0 and i % int(buzz) == 0:
+            if not i % int(fizz) and not i % int(buzz):
                 print('FB', end=' ')
-            elif i % int(fizz) == 0:
+            elif not i % int(fizz):
                 print('F', end=' ')
-            elif i % int(buzz) == 0:
+            elif not i % int(buzz):
                 print('B', end=' ')
             else:
                 print(i, end=' ')

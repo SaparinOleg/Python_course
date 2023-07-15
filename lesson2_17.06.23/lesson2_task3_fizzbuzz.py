@@ -3,14 +3,14 @@ buzz = int(input('Enter buzz\n'))
 limit = int(input('Enter limit\n'))
 
 """
-#Решение через цикл while
+# Решение через цикл while
 counter = 1
 while counter <= limit:
-    if counter % fizz == 0 and counter % buzz == 0:
+    if not counter % fizz and not counter % buzz:
         print('FB', end=' ')
-    elif counter % fizz == 0:
+    elif not counter % fizz:
         print('F', end=' ')
-    elif counter % buzz == 0:
+    elif not counter % buzz:
         print('B', end=' ')
     else:
         print(counter, end=' ')
@@ -19,13 +19,13 @@ input()
 """
 
 
-#Решение через цикл for
+# Решение через цикл for
 for i in range(1, limit+1):
-    if i % fizz == 0 and i % buzz == 0:
+    if not i % fizz and not i % buzz:
         print('FB', end=' ')
-    elif i % fizz == 0:
+    elif not i % fizz:
         print('F', end=' ')
-    elif i % buzz == 0:
+    elif not i % buzz:
         print('B', end=' ')
     else:
         print(i, end=' ')

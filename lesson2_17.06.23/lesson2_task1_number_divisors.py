@@ -10,7 +10,7 @@ if number.isdecimal():
         divider = 1
         print('Число ' + entered_number + ' делится на: ', end='')
     while divider <= number-1:
-        if number % divider == 0:
+        if not number % divider:
             print(divider, end=', ')
         divider += 1
     print(divider)
