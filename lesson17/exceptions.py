@@ -2,5 +2,5 @@ class EmailAlreadyExistsException(Exception):
     pass
 
 
-class EmailValidationError(Exception):
+class EmailValidationException(Exception):
     pass
