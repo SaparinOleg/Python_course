@@ -3,28 +3,18 @@ import traceback
 from calendar import weekday
 from datetime import date, datetime
 from exceptions import EmailAlreadyExistsException
-from exceptions import EmailValidationError
+from exceptions import EmailValidationException
 
 TODAY = date.today()
 
 
 class Employee:
+    email: str
 
     def __init__(self, name, salary, email: str):
         self.name = name
         self.salary = salary
-        try:
-            self.validate_email(email)
-            self.email = email
-            self.save_email(email)
-        except EmailValidationError:
-            print('Invalid address.')
-            with open('logs.txt', 'a') as logs:
-                logs.write(f'{datetime.now()} \n {traceback.format_exc()} \n\n')
-        except EmailAlreadyExistsException:
-            print('Email already exists.')
-            with open('logs.txt', 'a') as logs:
-                logs.write(f'{datetime.now()} \n {traceback.format_exc()} \n\n')
+        self.set_email(email)
 
     def __str__(self):
         return f'{self.__class__.__name__}: {self.name}'
@@ -70,11 +60,21 @@ class Employee:
     @staticmethod
     def validate_email(email):
         if '@' not in email or '.' not in email or ' ' in email:
-            raise EmailValidationError
+            raise EmailValidationException
         with open('emails.csv', 'r') as file:
             if email in file.read():
                 raise EmailAlreadyExistsException
         return True
+
+    def set_email(self, email):
+        try:
+            self.validate_email(email)
+            self.email = email
+            self.save_email(email)
+        except EmailValidationException:
+            Logger.log_stack_trace('Invalid address.')
+        except EmailAlreadyExistsException:
+            Logger.log_stack_trace('Email already exists.')
 
 
 class Developer(Employee):
@@ -120,6 +120,20 @@ class Developer(Employee):
 class Recruiter(Employee):
     def work(self, *args):
         return super().work() + ' and start to hiring'
+
+
+class Logger:
+
+    @classmethod
+    def log(cls, msg: str):
+        with open('logs.txt', 'a') as logs:
+            logs.write(f'{datetime.now()} \n {msg} \n')
+        print(msg)
+
+    @classmethod
+    def log_stack_trace(cls, msg: str = ''):
+        msg = f'{msg} \n {traceback.format_exc()} \n'
+        cls.log(msg)
 
 
 employee1 = Developer('Polygraph Poligraphovych', 0, 'Sharikov@gmailcom', tech_stack=['Turbo Pascal'])

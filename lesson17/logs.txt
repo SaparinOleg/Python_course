@@ -1,45 +1,50 @@
-2023-08-27 22:55:16.287120 
+2023-08-28 22:07:38.256404 
+ Invalid address. 
  Traceback (most recent call last):
-  File "D:\Documents\Python_course\homework\lesson17\task3_employees_v3.py", line 17, in __init__
+  File "D:\Documents\Python_course\homework\lesson17\employees_v3.py", line 71, in set_email
     self.validate_email(email)
-  File "D:\Documents\Python_course\homework\lesson17\task3_employees_v3.py", line 73, in validate_email
-    raise EmailValidationError
-exceptions.EmailValidationError
+  File "D:\Documents\Python_course\homework\lesson17\employees_v3.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
  
-
-2023-08-27 22:55:16.292122 
+ 
+2023-08-28 22:07:38.257404 
+ Email already exists. 
  Traceback (most recent call last):
-  File "D:\Documents\Python_course\homework\lesson17\task3_employees_v3.py", line 17, in __init__
+  File "D:\Documents\Python_course\homework\lesson17\employees_v3.py", line 71, in set_email
     self.validate_email(email)
-  File "D:\Documents\Python_course\homework\lesson17\task3_employees_v3.py", line 76, in validate_email
+  File "D:\Documents\Python_course\homework\lesson17\employees_v3.py", line 66, in validate_email
     raise EmailAlreadyExistsException
 exceptions.EmailAlreadyExistsException
  
-
-2023-08-27 22:55:16.293122 
+ 
+2023-08-28 22:07:38.258404 
+ Email already exists. 
  Traceback (most recent call last):
-  File "D:\Documents\Python_course\homework\lesson17\task3_employees_v3.py", line 17, in __init__
+  File "D:\Documents\Python_course\homework\lesson17\employees_v3.py", line 71, in set_email
     self.validate_email(email)
-  File "D:\Documents\Python_course\homework\lesson17\task3_employees_v3.py", line 76, in validate_email
+  File "D:\Documents\Python_course\homework\lesson17\employees_v3.py", line 66, in validate_email
     raise EmailAlreadyExistsException
 exceptions.EmailAlreadyExistsException
  
-
-2023-08-27 22:55:16.293122 
- Traceback (most recent call last):
-  File "D:\Documents\Python_course\homework\lesson17\task3_employees_v3.py", line 17, in __init__
-    self.validate_email(email)
-  File "D:\Documents\Python_course\homework\lesson17\task3_employees_v3.py", line 73, in validate_email
-    raise EmailValidationError
-exceptions.EmailValidationError
  
-
-2023-08-27 22:55:16.293122 
+2023-08-28 22:07:38.258404 
+ Invalid address. 
  Traceback (most recent call last):
-  File "D:\Documents\Python_course\homework\lesson17\task3_employees_v3.py", line 17, in __init__
+  File "D:\Documents\Python_course\homework\lesson17\employees_v3.py", line 71, in set_email
     self.validate_email(email)
-  File "D:\Documents\Python_course\homework\lesson17\task3_employees_v3.py", line 73, in validate_email
-    raise EmailValidationError
-exceptions.EmailValidationError
+  File "D:\Documents\Python_course\homework\lesson17\employees_v3.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
  
-
+ 
+2023-08-28 22:07:38.261404 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "D:\Documents\Python_course\homework\lesson17\employees_v3.py", line 71, in set_email
+    self.validate_email(email)
+  File "D:\Documents\Python_course\homework\lesson17\employees_v3.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
