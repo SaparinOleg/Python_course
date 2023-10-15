@@ -1,0 +1,3350 @@
+2023-08-28 22:07:38.256404 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "D:\Documents\Python_course\homework\lesson17\employees_v3.py", line 71, in set_email
+    self.validate_email(email)
+  File "D:\Documents\Python_course\homework\lesson17\employees_v3.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-08-28 22:07:38.257404 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "D:\Documents\Python_course\homework\lesson17\employees_v3.py", line 71, in set_email
+    self.validate_email(email)
+  File "D:\Documents\Python_course\homework\lesson17\employees_v3.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-08-28 22:07:38.258404 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "D:\Documents\Python_course\homework\lesson17\employees_v3.py", line 71, in set_email
+    self.validate_email(email)
+  File "D:\Documents\Python_course\homework\lesson17\employees_v3.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-08-28 22:07:38.258404 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "D:\Documents\Python_course\homework\lesson17\employees_v3.py", line 71, in set_email
+    self.validate_email(email)
+  File "D:\Documents\Python_course\homework\lesson17\employees_v3.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-08-28 22:07:38.261404 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "D:\Documents\Python_course\homework\lesson17\employees_v3.py", line 71, in set_email
+    self.validate_email(email)
+  File "D:\Documents\Python_course\homework\lesson17\employees_v3.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:10:16.531425 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:10:16.532422 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:10:16.533420 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:10:16.533420 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:10:16.534417 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:14:46.610316 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:14:46.611312 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:14:46.611312 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:14:46.612310 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:14:46.612310 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:15:24.837021 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:15:24.837983 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:15:24.838981 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:15:24.840036 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:15:24.840977 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:23:26.848469 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:23:26.849467 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:23:26.850464 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:23:26.851461 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:23:26.851461 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:24:33.854119 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:24:33.855116 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:24:33.856115 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:24:33.856115 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:24:33.856115 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:38:42.174233 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:38:42.183209 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:38:42.183209 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:38:42.184206 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:38:42.184206 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:39:55.134842 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:39:55.134842 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:39:55.135839 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:39:55.135839 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:39:55.136836 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:41:47.437801 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:41:47.438798 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:41:47.439795 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:41:47.440793 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:41:47.441790 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:44:55.303706 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:44:55.303706 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:44:55.304703 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:44:55.304703 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:44:55.305701 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:47:31.146097 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:47:31.147058 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:47:31.147058 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:47:31.148062 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:47:31.148062 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:49:12.713522 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:49:12.714518 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:49:12.715512 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:49:12.716478 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:49:12.717503 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:50:31.228355 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:50:31.230335 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:50:31.231332 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:50:31.232329 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:50:31.233327 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:51:03.567556 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:51:03.568547 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:51:03.569545 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:51:03.570542 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:51:03.571539 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:51:16.124384 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:51:16.125381 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:51:16.126344 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:51:16.127343 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:51:16.127343 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:53:43.379116 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:53:43.380115 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:53:43.380115 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 17:53:43.381111 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 17:53:43.382113 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:02:18.134619 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:02:18.135615 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:02:18.136613 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:02:18.136613 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:02:18.137611 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:05:33.488283 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:05:33.489279 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:05:33.490277 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:05:33.492271 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:05:33.493268 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:05:57.318562 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:05:57.321658 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:05:57.323551 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:05:57.324547 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:05:57.325544 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:06:51.531309 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:06:51.532270 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:06:51.532270 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:06:51.533267 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:06:51.534266 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:07:43.870168 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:07:43.871166 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:07:43.872163 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:07:43.873160 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:07:43.874158 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:09:35.805249 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:09:35.806138 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:09:35.808098 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:09:35.809094 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:09:35.810095 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:09:46.354516 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:09:46.355404 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:09:46.355404 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 66, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:09:46.355404 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:09:46.356668 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 71, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 63, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:40:59.329746 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 64, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:40:59.330776 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 67, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:40:59.331774 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 67, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:40:59.332000 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 64, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:40:59.332739 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 64, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:41:34.958407 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 64, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:41:34.960400 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 67, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:41:34.961397 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 67, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:41:34.962394 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 64, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:41:34.962632 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 64, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:42:42.192435 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 64, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:42:42.193437 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 67, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:42:42.194396 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 67, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:42:42.195393 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 64, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:42:42.196391 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 64, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:42:52.412871 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 64, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:42:52.413784 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 67, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:42:52.414786 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 67, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:42:52.415790 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 64, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:42:52.416823 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 64, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:42:53.768671 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 64, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:42:53.769667 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 67, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:42:53.769667 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 67, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:42:53.770785 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 64, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:42:53.771662 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 64, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:50:48.512698 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 64, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:50:48.513702 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 67, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:50:48.514658 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 67, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:50:48.515656 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 64, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:50:48.515656 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 72, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 64, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:53:59.437395 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:53:59.438390 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:53:59.439390 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:53:59.439390 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:53:59.440385 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:54:16.503593 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:54:16.504434 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:54:16.505449 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:54:16.507486 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:54:16.508445 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:54:26.527424 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:54:26.528421 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:54:26.530458 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:54:26.531412 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:54:26.532481 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:55:10.387695 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:55:10.388693 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:55:10.389689 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:55:10.390690 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:55:10.391684 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:56:32.086739 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:56:32.087410 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:56:32.088407 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:56:32.088407 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:56:32.089489 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:57:22.956859 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:57:22.957856 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:57:22.957856 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:57:22.958886 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:57:22.958886 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:57:48.808385 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:57:48.810979 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:57:48.813062 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 18:57:48.814968 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 18:57:48.817960 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:02:07.347467 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:02:07.348465 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:02:07.349461 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:02:07.350491 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:02:07.350491 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:02:33.535537 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:02:33.535537 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:02:33.536656 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:02:33.537518 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:02:33.538516 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:02:49.374368 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:02:49.375596 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:02:49.376330 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:02:49.377327 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:02:49.378351 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:02:58.980587 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:02:58.981504 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:02:58.982503 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:02:58.983597 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:02:58.984532 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:06:20.286344 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:06:20.287340 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:06:20.288338 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:06:20.289335 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:06:20.290368 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:07:26.302566 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:07:26.303597 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:07:26.304596 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:07:26.304596 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:07:26.305604 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:07:47.176670 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:07:47.177614 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:07:47.178578 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:07:47.178578 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:07:47.179574 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:08:13.222583 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:08:13.223452 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:08:13.224447 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:08:13.224447 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:08:13.225444 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:08:25.539474 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:08:25.540472 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:08:25.541471 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:08:25.541471 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:08:25.542500 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:08:30.374324 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:08:30.374324 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:08:30.375321 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:08:30.376319 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:08:30.376319 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:09:06.800248 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:09:06.801245 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:09:06.802243 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:09:06.802243 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:09:06.803240 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:09:16.842680 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:09:16.843644 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:09:16.843644 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:09:16.844673 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:09:16.844673 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:09:31.013448 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:09:31.014463 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:09:31.015411 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:09:31.015411 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:09:31.016409 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:09:46.386395 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:09:46.387343 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:09:46.389338 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:09:46.390384 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:09:46.391370 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:10:00.350137 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:10:00.351109 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:10:00.352107 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:10:00.352107 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:10:00.353104 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:10:15.381358 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:10:15.381358 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:10:15.382357 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:10:15.383352 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:10:15.383352 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:10:34.759493 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:10:34.760462 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:10:34.760462 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:10:34.761428 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:10:34.761428 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:10:45.824606 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:10:45.825689 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:10:45.826647 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:10:45.827684 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:10:45.828602 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:10:50.050366 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:10:50.051388 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:10:50.052359 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:10:50.052359 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:10:50.053389 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:11:07.373511 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:11:07.375475 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:11:07.376740 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:11:07.377701 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:11:07.378699 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:11:13.395279 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:11:13.395279 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:11:13.396347 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:11:13.397272 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:11:13.398269 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:14:07.831940 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:14:07.833100 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:14:07.834933 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:14:07.836014 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:14:07.837017 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:16:23.436396 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:16:23.437390 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:16:23.438336 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:16:23.439334 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:16:23.439334 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:16:49.796678 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:16:49.798536 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:16:49.799533 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:16:49.800601 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:16:49.801527 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:17:26.912308 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:17:26.913306 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:17:26.913306 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:17:26.914270 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:17:26.914885 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:17:56.555468 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:17:56.557377 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:17:56.558375 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:17:56.559449 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:17:56.560407 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:25:07.925290 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:25:07.926364 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:25:07.927237 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:25:07.928234 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:25:07.928234 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:26:36.475584 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:26:36.476543 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:26:36.477541 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:26:36.478538 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:26:36.479568 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:26:45.352982 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:26:45.353942 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:26:45.354936 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:26:45.355937 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:26:45.356932 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:35:19.800327 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:35:19.802325 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:35:19.804280 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:35:19.805348 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:35:19.806286 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:36:52.127750 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:36:52.128746 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:36:52.129826 
+ Email already exists. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 68, in validate_email
+    raise EmailAlreadyExistsException
+exceptions.EmailAlreadyExistsException
+ 
+ 
+2023-10-15 19:36:52.131741 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
+2023-10-15 19:36:52.131741 
+ Invalid address. 
+ Traceback (most recent call last):
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 73, in set_email
+    self.validate_email(email)
+  File "C:\Users\pif\Documents\Python_course\homework\lesson18\employees_v4.py", line 65, in validate_email
+    raise EmailValidationException
+exceptions.EmailValidationException
+ 
+ 
