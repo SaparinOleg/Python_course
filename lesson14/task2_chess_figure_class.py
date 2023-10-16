@@ -10,7 +10,7 @@ class ChessFigure:
             self.color = "white"
 
     def is_valid_position(self, file: int, rank: int) -> bool:
-        return True if 1 <= file <= 8 and 1 <= rank <= 8 else False
+        return 0 <= file <= 7 and 0 <= rank <= 7
 
     def move(self, file: int, rank: int) -> None:
         if self.is_valid_position(file, rank):
